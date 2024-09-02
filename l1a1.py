@@ -1,0 +1,1 @@
+print("example for folder structure and activity submissions")
